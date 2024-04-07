@@ -9,9 +9,9 @@ A ndwi map of hathazari upazilla is created by using Sentinel-2 imagery for 2023
 A ndsi map of hathazari upazilla is created by using Sentinel-2 imagery for 2021.
 [ndsi](https://code.earthengine.google.com/2812a95b40a23125452f6fa99b20d2fa)
 
-## NDVI map of a Upazila by using Landsat 9 imagery for 2022
+## NDVI map of a Upazila by using Sentinel-2 imagery for 2022
 
-A ndvi map of a upazilla is created by using Sentinel-2 imagery for 2022.
+A ndvi map of a upazilla is created by using  imagery for 2022.
 [ndvi](https://code.earthengine.google.com/57af4b32205bb0674b146c1363da2ef9)
 
 ## Calculation of the maximum and minimum NDVI value of the NDVI map
